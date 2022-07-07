@@ -39,12 +39,12 @@ The school summary for Thomas High School was slightly worse than when the 9th g
 
 ![image](https://user-images.githubusercontent.com/107078763/177808232-f7594a77-8ca5-47ed-b698-8d722698c43c.png)
 
-*Updated Average Math by Grade
+*Updated Average Math by Grade*
 
 ![image](https://user-images.githubusercontent.com/107078763/177808528-78eca2d0-bad3-44b0-8933-414bf0f13a37.png)
 
 
-*Original Average Reading by Grade
+*Original Average Reading by Grade*
 
 
 ![image](https://user-images.githubusercontent.com/107078763/177809410-6d8609ac-6638-4a3b-9fce-9ef81127094b.png)
@@ -61,23 +61,23 @@ With the updated formats of scores and % passing, there was no impact to the $63
 
 Overall, the schools that spent less than $586 per student performed the best in the district.
 
-*Original 
+*Original* 
 
 ![image](https://user-images.githubusercontent.com/107078763/177811724-613cd6aa-73ff-4950-bb9b-5cfacd6e15a1.png)
 
-*Updated
+*Updated*
 
 ![image](https://user-images.githubusercontent.com/107078763/177812072-42140b4d-6007-41b0-ab86-f47ede04bdca.png)
 
 **Scores by school size**
 Thomas High School is categorized as a medium size school (1000-1999) and there is no impact to scores by school sized with removing the 9th graders scores. There is a 1% difference in overall performance for small and medium sized schools. However, scools with > 2000 students performed significatnly worse. 
 
-*Original
+*Original*
 
 ![image](https://user-images.githubusercontent.com/107078763/177813579-12c97530-7825-4ead-b9d2-b71f0b8b7f40.png)
 
 
-*Updated
+*Updated*
 
 ![image](https://user-images.githubusercontent.com/107078763/177813330-ae2cbf3f-2d52-462d-b241-e334a2cd17be.png)
 
@@ -85,11 +85,11 @@ Thomas High School is categorized as a medium size school (1000-1999) and there 
 **Scores by school type**
 Thomas High School is a Charter school and there is no impact >.1% between the original analysis and the updated analysis. Charter school still performed significantly better than district schools in both analysis.
 
-*Original
+*Original*
 
 ![image](https://user-images.githubusercontent.com/107078763/177814114-bc3b34c2-3069-4b86-9595-799d63d11ea2.png)
 
-*Updated
+*Updated*
 
 ![image](https://user-images.githubusercontent.com/107078763/177814269-e49864fa-7963-4971-aff4-cedbd7c7f994.png)
 
