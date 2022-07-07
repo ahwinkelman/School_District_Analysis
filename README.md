@@ -17,7 +17,7 @@ Original District Summary
 Updated District Summary
 ![image](https://user-images.githubusercontent.com/107078763/177803301-72cd185b-d4f8-4487-84e1-3931557c7c74.png)
 
-How is the school summary affected?
+How is the school summary affected? Thomas High School's performance relative to other schools?
 The school summary for Thomas High School was slightly worse than when the 9th graders scores were untouched. Overall passing % dropped from 90.95% to 90.63% but Thomas High School was still the 2nd best performing school based on % Overall passing in the district.  The 9th grade class at Thomas High School accounts for ~28% of student population so the impact is felt more at a school summary level.  The minor drops average scores, % passing, and overall passing indicates the the 9th grade class is a top performing class in the school but the performance of the 10th through 12th graders is consistent across the school which is why the school is still ranked #2 in the district.
 
 Origianl Top School Summary
@@ -27,8 +27,8 @@ Updated Top School Summary
 ![image](https://user-images.githubusercontent.com/107078763/177805037-862e73b5-8142-4aa3-aae2-8571b0d6e28f.png)
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+How does replacing the ninth-grade scores affect the following:
+Math and reading scores by grade
 Original Average Math by Grade
 
 ![image](https://user-images.githubusercontent.com/107078763/177808232-f7594a77-8ca5-47ed-b698-8d722698c43c.png)
@@ -50,8 +50,6 @@ Updated Average Reading by Grade
 ![image](https://user-images.githubusercontent.com/107078763/177809589-de9bdf77-6df4-4957-a883-d84ce90bd637.png)
 
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
