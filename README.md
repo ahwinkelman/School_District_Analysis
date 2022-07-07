@@ -13,7 +13,7 @@ Original District Summary
 ![image](https://user-images.githubusercontent.com/107078763/177802891-76f5f8a5-194a-4df3-b665-10e39f3fdd4f.png)
 
 Updated District Summary
-
+![image](https://user-images.githubusercontent.com/107078763/177803301-72cd185b-d4f8-4487-84e1-3931557c7c74.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
