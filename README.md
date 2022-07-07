@@ -29,10 +29,14 @@ Updated Top School Summary
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Original Average Math by Grade
+
 ![image](https://user-images.githubusercontent.com/107078763/177808232-f7594a77-8ca5-47ed-b698-8d722698c43c.png)
 
 Updated Average Math by Grade
-As stated above, Thomas High School is still a top performing school in the district even with the slight drop in school performance.
+
+Original Average Reading by Grade
+
+Updated Average Reading by Grade
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
