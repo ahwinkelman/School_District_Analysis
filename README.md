@@ -34,6 +34,7 @@ The school summary for Thomas High School was slightly worse than when the 9th g
 
 **How does replacing the ninth-grade scores affect the following:**
 **Math and reading scores by grade**
+
 *Original Average Math by Grade
 
 ![image](https://user-images.githubusercontent.com/107078763/177808232-f7594a77-8ca5-47ed-b698-8d722698c43c.png)
