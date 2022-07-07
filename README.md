@@ -51,13 +51,13 @@ Updated Average Reading by Grade
 
 
 Scores by school spending
+With the updated formats of scores and % passing, there was no impact to the $631-$645 spending bin where Thomas High School is categorized.  If we expand the decimal places there is a minimal drop in overall passing % from 62.85% to 62.77%.
+
 Original 
 ![image](https://user-images.githubusercontent.com/107078763/177811724-613cd6aa-73ff-4950-bb9b-5cfacd6e15a1.png)
 
 Updated
 ![image](https://user-images.githubusercontent.com/107078763/177812072-42140b4d-6007-41b0-ab86-f47ede04bdca.png)
-
-
 
 Scores by school size
 Scores by school type
