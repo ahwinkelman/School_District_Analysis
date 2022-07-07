@@ -62,6 +62,9 @@ Updated
 Scores by school size
 Original
 
+![image](https://user-images.githubusercontent.com/107078763/177813579-12c97530-7825-4ead-b9d2-b71f0b8b7f40.png)
+
+
 Updated
 
 ![image](https://user-images.githubusercontent.com/107078763/177813330-ae2cbf3f-2d52-462d-b241-e334a2cd17be.png)
