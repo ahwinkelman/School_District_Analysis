@@ -77,6 +77,7 @@ Updated
 
 
 Scores by school type
+Thomas High School is a Charter school and there is no impact >.1% between the original analysis and the updated analysis.
 
 Original
 ![image](https://user-images.githubusercontent.com/107078763/177814114-bc3b34c2-3069-4b86-9595-799d63d11ea2.png)
