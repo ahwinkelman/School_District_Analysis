@@ -91,6 +91,5 @@ Updated
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 Overall the changes in the updated school district anlaysis were minimal once the 9th graders at Thomas High School had been replaced with NaNs.
-1. The district summary had its % passing for reading, math, and overall drop between .1%-.3%, but average scores were not impacted.
-2. The school summary for Thomas High School dropped slightly in all categories except for Average Reading Score which had a slight increase.
-3. 
+1. 
+
