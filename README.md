@@ -28,11 +28,13 @@ Updated Top School Summary
 
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Original Average Math by Grade
 
+Original Average Math by Grade
 ![image](https://user-images.githubusercontent.com/107078763/177808232-f7594a77-8ca5-47ed-b698-8d722698c43c.png)
 
 Updated Average Math by Grade
+![image](https://user-images.githubusercontent.com/107078763/177808528-78eca2d0-bad3-44b0-8933-414bf0f13a37.png)
+
 
 Original Average Reading by Grade
 
