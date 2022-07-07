@@ -38,6 +38,9 @@ Updated Average Math by Grade
 
 Original Average Reading by Grade
 
+![image](https://user-images.githubusercontent.com/107078763/177809410-6d8609ac-6638-4a3b-9fce-9ef81127094b.png)
+
+
 Updated Average Reading by Grade
 
 How does replacing the ninth-grade scores affect the following:
