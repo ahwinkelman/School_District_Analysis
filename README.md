@@ -54,12 +54,16 @@ Scores by school spending
 With the updated formats of scores and % passing, there was no impact to the $631-$645 spending bin where Thomas High School is categorized.  If we expand the decimal places there is a minimal drop in overall passing % from 62.85% to 62.77%.
 
 Original 
+
 ![image](https://user-images.githubusercontent.com/107078763/177811724-613cd6aa-73ff-4950-bb9b-5cfacd6e15a1.png)
 
 Updated
+
 ![image](https://user-images.githubusercontent.com/107078763/177812072-42140b4d-6007-41b0-ab86-f47ede04bdca.png)
 
 Scores by school size
+Thomas High School is categorized as a medium size school (1000-1999) and there is no impact to scores by school sized with removing the 9th graders scores.
+
 Original
 
 ![image](https://user-images.githubusercontent.com/107078763/177813579-12c97530-7825-4ead-b9d2-b71f0b8b7f40.png)
