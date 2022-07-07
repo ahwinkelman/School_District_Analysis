@@ -51,7 +51,9 @@ Updated Average Reading by Grade
 
 
 Scores by school spending
-With the updated formats of scores and % passing, there was no impact to the $631-$645 spending bin where Thomas High School is categorized.  If we expand the decimal places there is a minimal drop in overall passing % from 62.85% to 62.77%.
+With the updated formats of scores and % passing, there was no impact to the $631-$645 spending bin where Thomas High School is categorized.  If we expand the decimal places there is a minimal drop in overall passing % from 62.85% to 62.77%. 
+
+Overall, the schools that spent less than $586 per student performed the best in the district.
 
 Original 
 
@@ -62,7 +64,7 @@ Updated
 ![image](https://user-images.githubusercontent.com/107078763/177812072-42140b4d-6007-41b0-ab86-f47ede04bdca.png)
 
 Scores by school size
-Thomas High School is categorized as a medium size school (1000-1999) and there is no impact to scores by school sized with removing the 9th graders scores.
+Thomas High School is categorized as a medium size school (1000-1999) and there is no impact to scores by school sized with removing the 9th graders scores. There is a 1% difference in overall performance for small and medium sized schools. However, scools with > 2000 students performed significatnly worse. 
 
 Original
 
@@ -88,3 +90,5 @@ Updated
 
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Overall the changes in the updated school district anlaysis were minimal once the 9th graders at Thomas High School had been replaced with NaNs.
+
