@@ -78,4 +78,11 @@ Updated
 
 Scores by school type
 
+Original
+![image](https://user-images.githubusercontent.com/107078763/177814114-bc3b34c2-3069-4b86-9595-799d63d11ea2.png)
+
+Updated
+
+
+
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
