@@ -55,7 +55,8 @@ Original
 ![image](https://user-images.githubusercontent.com/107078763/177811724-613cd6aa-73ff-4950-bb9b-5cfacd6e15a1.png)
 
 Updated
-![image](https://user-images.githubusercontent.com/107078763/177811862-6374db77-aca0-46dd-b93c-6b520f1e4d2f.png)
+![image](https://user-images.githubusercontent.com/107078763/177812072-42140b4d-6007-41b0-ab86-f47ede04bdca.png)
+
 
 
 Scores by school size
