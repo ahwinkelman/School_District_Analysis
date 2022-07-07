@@ -9,7 +9,7 @@ The other variable tested through this analysis was to test the impact if a top 
  Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
-There was little impact on the district summary by replacing the 9th graders scores with NaN.  
+There was little impact on the district summary by replacing the 9th graders scores with NaN.  The largest impact was the % passing reading which dropped .3% from 86% to 85.7%.  There were only 461 students impacted by this change which accounts for ~1.2% of the entire population which the change was not as impactful.
 
 Original District Summary
 ![image](https://user-images.githubusercontent.com/107078763/177802891-76f5f8a5-194a-4df3-b665-10e39f3fdd4f.png)
