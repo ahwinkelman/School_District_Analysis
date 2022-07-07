@@ -9,6 +9,12 @@ The other variable tested through this analysis was to test the impact if a top 
  Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+Original District Summary
+![image](https://user-images.githubusercontent.com/107078763/177802891-76f5f8a5-194a-4df3-b665-10e39f3fdd4f.png)
+
+Updated District Summary
+
+
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
