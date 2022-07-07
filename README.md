@@ -43,6 +43,9 @@ Original Average Reading by Grade
 
 Updated Average Reading by Grade
 
+![image](https://user-images.githubusercontent.com/107078763/177809589-de9bdf77-6df4-4957-a883-d84ce90bd637.png)
+
+
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
